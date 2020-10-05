@@ -15,6 +15,7 @@ import BootstrapVue from 'bootstrap-vue';
 import Header from '@/components/Layouts/fire/fireHeader'
 import Sidebar from '@/components/Layouts/fire/fireSideBar'
 export default {
+    //hrsfrt
     components: {
         'app-header': Header,
         'app-sidebar': Sidebar,
