@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
-# Logs 1
+# Logs
 /logs
 *.log
 npm-debug.log*
