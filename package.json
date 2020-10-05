@@ -1,0 +1,36 @@
+{
+  "name": "nuxtnew",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "cookieparser": "^0.1.0",
+    "firebase": "^7.20.0",
+    "jquery": "^3.5.1",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^3.0.0-beta.2",
+    "net": "^1.0.2",
+    "nuxt": "^2.14.0",
+    "puppeteer": "^5.3.0",
+    "tls": "0.0.1",
+    "vue-multiselect": "^2.1.6",
+    "vue-quill-editor": "^3.0.6",
+    "vue-sweetalert2": "^3.0.8",
+    "vuelidate": "^0.7.5",
+    "whatsapp-web.js": "^1.8.2",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  }
+}
